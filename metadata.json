@@ -1,0 +1,6 @@
+{
+  "name": "MarchePublics Scraper & Insights Dashboard",
+  "description": "Multi-page scraper for marchespublics.gov.ma based on Scrapping architecture with intelligent parameters, live multi-page extraction, and tender insight analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
